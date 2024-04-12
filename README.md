@@ -1,4 +1,4 @@
-## Olá! Eu sou o Jefferson Alves 🖐️
+## Olá! Eu sou o Jefferson Alves 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvesjefferson1288@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
@@ -23,7 +23,7 @@ Apaixonado por tecnologia, educação e buscando novos conhecimentos web.
 
 Clone do site Disney+ <br>
 Conômetro <br>
-landign page <br>
+Landign page <br>
 Tela de login <br>
 Portfólio
 
