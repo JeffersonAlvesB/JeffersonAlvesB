@@ -19,13 +19,7 @@
   <br><br>
 Apaixonado por tecnologia, educação e buscando novos conhecimentos web.
 
-### Últimos Projetos
 
-Clone do site Disney+ <br>
-Conômetro <br>
-Landign page <br>
-Tela de login <br>
-Portfólio
 
 
 
