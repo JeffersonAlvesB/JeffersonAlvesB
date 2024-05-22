@@ -6,7 +6,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](HTTPS://t.me/Jeff2818)
 
 
-![JeffersonAlvesB GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonAlvesB&show_icons=true&theme=blue_navy)
+
 
 
 ## Tecnologias que eu uso no meu dia
