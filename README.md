@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 Sobre mim</summary>
 
-  - 💬  Tenho 19 anos e já possuo experiência em HTML, CSS e JavaScript. Criei sites para divulgar as redes sociais de pessoas, o que me ajudou a aplicar esses conhecimentos na prática. Durante o ensino médio, tive a oportunidade de apresentar diversos projetos que me ajudaram a aprimorar minha comunicação, criatividade e trabalho em equipe.
+  - 💬  Tenho 20 anos e já possuo experiência em HTML, CSS e JavaScript. Criei sites para divulgar as redes sociais de pessoas, o que me ajudou a aplicar esses conhecimentos na prática. Durante o ensino médio, tive a oportunidade de apresentar diversos projetos que me ajudaram a aprimorar minha comunicação, criatividade e trabalho em equipe.
 
   - ⚡ Gosto de ler, assistir filmes e ouvir músicas! Acredito que nossos interesses pessoais ajudam a ter uma visão mais ampla das coisas e a resolver problemas de forma mais criativa...
 </details>
