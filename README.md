@@ -34,11 +34,8 @@
 
 
 <!-- Portfolio -->
-## Portfolio:
-- [CineExplorer](https://github.com/JeffersonAlvesB/CineExplorer)
-- [Clima-App](https://github.com/JeffersonAlvesB/Clima)
-- [Calculadora-IMC](https://github.com/JeffersonAlvesB/Calculadora-imc)
-- [Hamburgueria-landing page](https://github.com/JeffersonAlvesB/Hamburgueria)
+## Portfólio:
+- [Freelancer-Portfólio](https://github.com/JeffersonAlvesB/https://github.com/JeffersonAlvesB/celia-portfolio-freelancer)
 
 <br>
 <!-- GIF -->
