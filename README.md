@@ -32,9 +32,9 @@
 ![JeffersonAlvesB GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonAlvesB&show_icons=true&theme=gotham)
 
 
-<!-- Portfolio -->
+<!-- Portfolio 
 ## Portfólio:
-- [Freelancer-Portfólio](https://github.com/JeffersonAlvesB/https://github.com/JeffersonAlvesB/celia-portfolio-freelancer)
+- [Freelancer-Portfólio](https://github.com/JeffersonAlvesB/https://github.com/JeffersonAlvesB/celia-portfolio-freelancer)-->
 
 <br>
 <!-- GIF -->
