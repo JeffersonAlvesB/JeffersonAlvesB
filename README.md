@@ -7,8 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffersonalvesb)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jeffweb.netlify.app)
 
-<img width="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdsMHZyZndlZDNwZ2RubDR1OTV6enQ4ZnUxdjFobXU0ZTc0cnhxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif" alt="Developer animation">
-
 </div>
 
 ---
