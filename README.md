@@ -1,64 +1,80 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+<div align="center">
+  
+## Jefferson Alves | Desenvolvedor Front-End
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvesjefferson1288@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/0dyaqq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffersonalvesb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jeffweb.netlify.app)
+
+<img width="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdsMHZyZndlZDNwZ2RubDR1OTV6enQ4ZnUxdjFobXU0ZTc0cnhxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif" alt="Developer animation">
+
 </div>
 
-<!-- Presentation -->
-<p>
-  👋 Oi, eu sou o Jefferson! Um estudante apaixonado por Desenvolvimento web.
+---
 
-  - 🌱 Atualmente estou aprimorando meus conhecimentos em desenvolvimento front-end, explorando boas práticas, performance e acessibilidade para entregar interfaces mais eficientes e envolventes.
+## 🚀 Sobre Mim
 
-  - 🔭 Estou em busca da minha primeira oportunidade de trabalho. Meu objetivo é me aprofundar em tecnologias de Front-End, criando interfaces inovadoras e eficientes. 
-</p>
+Sou desenvolvedor front-end, focado em criar interfaces modernas, acessíveis e performáticas. Atualmente aprimorando conhecimentos em tecnologias front-end.
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 Sobre mim</summary>
+### 💼 Experiência
 
-  - 💬  Tenho 21 anos e já possuo experiência em ReactJs. Freelancer onde criei um site para uma corretora e hospedei , o que me ajudou a aplicar esses conhecimentos na prática. Durante o ensino médio, tive a oportunidade de apresentar diversos projetos que me ajudaram a aprimorar minha comunicação, criatividade e trabalho em equipe.
+**Desenvolvedor Front-End Freelancer**  
+*Site para Corretora de Imóveis* | 12/2024  
+🔗 [Ver projeto ao vivo](https://celiaportfolio.netlify.app)
 
-  - ⚡ Gosto de ler, assistir filmes e ouvir músicas! Acredito que nossos interesses pessoais ajudam a ter uma visão mais ampla das coisas e a resolver problemas de forma mais criativa...
-</details>
+Desenvolvido para apresentar os serviços e imóveis de uma corretora de forma profissional e responsiva. O projeto destaca:
+- 🎨 Navegação com slides de propriedades utilizando **Swiper JS**
+- 🌓 Alternância entre **Dark Mode** e **Light Mode**
+- 📧 Integração com **EmailJS** para envio de mensagens via POST diretamente ao e-mail da corretora
+- ⚡ Desenvolvido com **React**, com foco em usabilidade, layout moderno e experiência do usuário
 
-<!-- Links -->
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvesjefferson1288@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-)](https://wa.link/0dyaqq)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffersonalvesb)
+### 🎯 Objetivos
 
+Busco me aprofundar em tecnologias Front-End modernas, aplicando boas práticas de desenvolvimento, performance e acessibilidade para criar interfaces inovadoras e eficientes.
 
+### 🎨 Interesses Pessoais
 
+Gosto de ler, assistir filmes e ouvir músicas. Acredito que nossos interesses pessoais ampliam nossa visão e nos ajudam a resolver problemas de forma mais criativa.
 
-## Portfólio:
-- [Meu Portfólio](https://jeffweb.netlify.app)
+---
 
-<br>
-<!-- GIF -->
-<p align="left">
-  <img  width:100% src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdsMHZyZndlZDNwZ2RubDR1OTV6enQ4ZnUxdjFobXU0ZTc0cnhxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif" alt="Imagem">
-</p>
+## 🛠️ Tecnologias & Ferramentas
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Linguagens & Frameworks</h3>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Icon" width="40" height="30" />
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="React Icon" width="40" height="30" />
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS Icon" width="40" height="30" />
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass Icon" width="40" height="30" />
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Ferramentas</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM Icon" width="40" height="30" />
-  </div>
-  
+<div align="center">
 
+### Linguagens & Frameworks
+
+<img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+<img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Next.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+<img align="center" alt="Tailwind CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+<img align="center" alt="Sass" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+<img align="center" alt="Jest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+
+### Ferramentas & Design
+
+<img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="NPM" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+<img align="center" alt="Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+
+</div>
+
+---
+
+## 📚 Desenvolvimento Profissional Contínuo
+
+<div align="center">
+
+**📖 Leitura Atual: JavaScript - O Guia Definitivo**  
+*David Flanagan*
+
+<img width="200" src="https://github.com/user-attachments/assets/7e851692-ca1a-4bba-a90f-3b28d18f03a2" alt="Livro JavaScript - O Guia Definitivo">
+
+</div>
+
+---
