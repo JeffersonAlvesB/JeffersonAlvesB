@@ -71,7 +71,7 @@ Gosto de ler, assistir filmes e ouvir músicas. Acredito que nossos interesses p
 **📖 Leitura Atual: JavaScript - O Guia Definitivo**  
 *David Flanagan*
 
-<img width="200" src="https://github.com/user-attachments/assets/7e851692-ca1a-4bba-a90f-3b28d18f03a2" alt="Livro JavaScript - O Guia Definitivo">
+<img width="200" src="https://github.com/user-attachments/assets/eed9a5d1-ebac-4387-b645-51298fb22ae6" alt="Livro JavaScript - O Guia Definitivo">
 
 </div>
 
