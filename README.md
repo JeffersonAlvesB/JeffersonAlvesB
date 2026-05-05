@@ -3,7 +3,7 @@
 ## Jefferson Domiciano | Desenvolvedor Front-End
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvesjefferson1288@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/0dyaqq)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/0dyaqq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffersonalvesb)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jeffweb.netlify.app)
 
@@ -13,27 +13,47 @@
 
 ## 🚀 Sobre Mim
 
-Sou desenvolvedor front-end, focado em criar interfaces modernas, acessíveis e performáticas. Atualmente aprimorando conhecimentos em tecnologias front-end.
+Sou Desenvolvedor Front-End com foco no ecossistema React, utilizando **Next.js**, **TypeScript** e **Tailwind CSS** para construir interfaces modernas, responsivas e performáticas.
 
-### 💼 Experiência
+Atualmente atuo como **Desenvolvedor Front-End na AVANTI**, trabalhando com soluções voltadas para **e-commerce** dentro do ecossistema **VTEX IO**, desenvolvendo componentes escaláveis, performáticos e alinhados às melhores práticas do mercado.
 
-**Desenvolvedor Front-End Freelancer**  
-*Site para Corretora de Imóveis* | 12/2024  
-🔗 [Ver projeto ao vivo](https://celiaportfolio.netlify.app)
+Estou sempre buscando evoluir tecnicamente, com foco em **código limpo, componentização, performance e experiência do usuário**.
 
-Desenvolvido para apresentar os serviços e imóveis de uma corretora de forma profissional e responsiva. O projeto destaca:
-- 🎨 Navegação com slides de propriedades utilizando **Swiper JS**
-- 🌓 Alternância entre **Dark Mode** e **Light Mode**
-- 📧 Integração com **EmailJS** para envio de mensagens via POST diretamente ao e-mail da corretora
-- ⚡ Desenvolvido com **React**, com foco em usabilidade, layout moderno e experiência do usuário
+---
 
-### 🎯 Objetivos
+## 💼 Experiência
 
-Busco me aprofundar em tecnologias Front-End modernas, aplicando boas práticas de desenvolvimento, performance e acessibilidade para criar interfaces inovadoras e eficientes.
+### 🏢 Desenvolvedor Front-End | AVANTI
+- Desenvolvimento de interfaces para e-commerce com **VTEX IO**
+- Criação e manutenção de componentes reutilizáveis
+- Integração com APIs REST
+- Otimização de performance e responsividade
 
-### 🎨 Interesses Pessoais
+---
 
-Gosto de ler, assistir filmes e ouvir músicas. Acredito que nossos interesses pessoais ampliam nossa visão e nos ajudam a resolver problemas de forma mais criativa.
+### 💻 Desenvolvedor Front-End Freelancer  
+**Site para Corretora de Imóveis** | 12/2024  
+🔗 https://celiaportfolio.netlify.app
+
+Projeto desenvolvido para apresentar imóveis e serviços de forma moderna e responsiva:
+
+- 🎨 Slider de propriedades com **Swiper JS**
+- 🌓 Dark Mode / Light Mode
+- 📧 Integração com **EmailJS**
+- ⚡ Aplicação construída com **React** focada em UX
+
+---
+
+## 🎓 Formação
+
+🎓 **Análise e Desenvolvimento de Sistemas (ADS)** *(em andamento)*  
+
+Durante a formação, venho aprofundando conhecimentos em:
+- Lógica de programação
+- Estruturas de dados
+- Fundamentos da computação
+
+Aplicando esses conceitos na construção de aplicações escaláveis e bem estruturadas.
 
 ---
 
@@ -41,38 +61,40 @@ Gosto de ler, assistir filmes e ouvir músicas. Acredito que nossos interesses p
 
 <div align="center">
 
-### Linguagens & Frameworks
+### Front-End
 
-<img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Next.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-<img align="center" alt="Tailwind CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-<img align="center" alt="Sass" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-<img align="center" alt="Jest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+<p>
+  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Next.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img alt="Tailwind CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img alt="Sass" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+</p>
 
-### Ferramentas & Design
+### Ferramentas
 
-<img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="center" alt="NPM" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-<img align="center" alt="Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-
-</div>
-
----
-
-## 📚 Desenvolvimento Profissional Contínuo
-
-<div align="center">
-
-**📖 Leitura Atual: JavaScript - O Guia Definitivo**  
-*David Flanagan*
-
-<img width="200" src="https://github.com/user-attachments/assets/eed9a5d1-ebac-4387-b645-51298fb22ae6" alt="Livro JavaScript - O Guia Definitivo">
+<p>
+  <img alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="NPM" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+  <img alt="Figma" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+</p>
 
 </div>
 
 ---
+
+## 🎯 Objetivo
+
+Consolidar minha carreira como desenvolvedor Front-End, evoluindo para níveis mais avançados e contribuindo em projetos que exijam **alta performance, escalabilidade e excelente experiência do usuário**.
+
+---
+
+## 🔗 Links
+
+- 💻 GitHub: https://github.com/JeffersonAlvesB  
+- 🌐 Portfólio: https://jeffweb.netlify.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/jeffersonalvesb  
