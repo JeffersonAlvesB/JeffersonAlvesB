@@ -42,18 +42,7 @@ Projeto desenvolvido para apresentar imóveis e serviços de forma moderna e res
 - 📧 Integração com **EmailJS**
 - ⚡ Aplicação construída com **React** focada em UX
 
----
 
-## 🎓 Formação
-
-🎓 **Análise e Desenvolvimento de Sistemas (ADS)** *(em andamento)*  
-
-Durante a formação, venho aprofundando conhecimentos em:
-- Lógica de programação
-- Estruturas de dados
-- Fundamentos da computação
-
-Aplicando esses conceitos na construção de aplicações escaláveis e bem estruturadas.
 
 ---
 
