@@ -23,16 +23,11 @@ Estou sempre buscando evoluir tecnicamente, com foco em **código limpo, compone
 
 ## 💼 Experiência
 
-### 🏢 Desenvolvedor Front-End | AVANTI
-- Desenvolvimento de interfaces para e-commerce com **VTEX IO**
-- Criação e manutenção de componentes reutilizáveis
-- Integração com APIs REST
-- Otimização de performance e responsividade
-
+### 🏢 Desenvolvedor Front-End | AVANTI (Atual)
 ---
 
-### 💻 Desenvolvedor Front-End Freelancer  
-**Site para Corretora de Imóveis** | 12/2024  
+### 💻 Desenvolvedor Front-End Freelancer (12/2024)
+**Site para Corretora de Imóveis** 
 🔗 https://celiaportfolio.netlify.app
 
 Projeto desenvolvido para apresentar imóveis e serviços de forma moderna e responsiva:
