@@ -15,7 +15,7 @@
 
 Sou Desenvolvedor Front-End com foco no ecossistema React, utilizando **Next.js**, **TypeScript** e **Tailwind CSS** para construir interfaces modernas, responsivas e performáticas.
 
-Atualmente atuo como **Desenvolvedor Front-End na AVANTI**, trabalhando com soluções voltadas para **e-commerce** dentro do ecossistema **VTEX IO**, desenvolvendo componentes escaláveis, performáticos e alinhados às melhores práticas do mercado.
+Atualmente atuo como **Desenvolvedor Front-End na AVANTI**, trabalhando com soluções voltadas para **e-commerce** dentro do ecossistema **VTEX** (**VTEX IO Store Framework** e **FastStore**), desenvolvendo componentes escaláveis, performáticos e alinhados às melhores práticas do mercado.
 
 Estou sempre buscando evoluir tecnicamente, com foco em **código limpo, componentização, performance e experiência do usuário**.
 
@@ -23,7 +23,16 @@ Estou sempre buscando evoluir tecnicamente, com foco em **código limpo, compone
 
 ## 💼 Experiência
 
-### 🏢 Desenvolvedor Front-End | AVANTI (Atual)
+### 🏢 Desenvolvedor Front-End (Estágio) | AVANTI — Innovation Class (04/2026 – Atual)
+
+Atuo no desenvolvimento de lojas virtuais no ecossistema **VTEX**, com **FastStore** e **VTEX IO Store Framework**.
+
+- 🧩 Desenvolvimento de componentes e seções reutilizáveis com **React**, **Next.js** e **TypeScript**
+- 🔗 Integração com APIs da VTEX via **GraphQL** e **REST**
+- 📱 Construção de interfaces responsivas, com foco em performance, acessibilidade e experiência de compra
+- 🛠️ Manutenção, evolução e correção de bugs em lojas em produção
+- 🤝 Trabalho em equipe com versionamento no **Git**, code review e metodologias ágeis
+
 ---
 
 ### 💻 Desenvolvedor Front-End Freelancer (12/2024)
@@ -47,25 +56,21 @@ Projeto desenvolvido para apresentar imóveis e serviços de forma moderna e res
 
 ### Front-End
 
-<p>
-  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Next.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img alt="Tailwind CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img alt="Sass" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass&theme=dark" />
+</a>
+
+### Back-End
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" />
+</a>
 
 ### Ferramentas
 
-<p>
-  <img alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img alt="NPM" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-  <img alt="Figma" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman&theme=dark" />
+</a>
 
 </div>
 
@@ -81,4 +86,4 @@ Consolidar minha carreira como desenvolvedor Front-End, evoluindo para níveis m
 
 - 💻 GitHub: https://github.com/JeffersonAlvesB  
 - 🌐 Portfólio: https://jeffweb.netlify.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/jeffersonalvesb  
+- 💼 LinkedIn: https://www.linkedin.com/in/jeffersonalvesb
