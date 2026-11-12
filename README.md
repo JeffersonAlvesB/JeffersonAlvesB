@@ -23,7 +23,7 @@ Estou sempre buscando evoluir tecnicamente, com foco em **código limpo, compone
 
 ## 💼 Experiência
 
-### 🏢 Desenvolvedor Front-End (Estágio) | AVANTI — Innovation Class (04/2026 – Atual)
+### 🏢 Desenvolvedor Front-End (Estágio) | AVANTI — (04/2026 – Atual)
 
 Atuo no desenvolvimento de lojas virtuais no ecossistema **VTEX**, com **FastStore** e **VTEX IO Store Framework**.
 
